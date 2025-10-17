@@ -1,6 +1,5 @@
 // 12S25045-VITA CHARISTI NAIBAHO //
 // 12S25038-SAKEUS MALAU //
-
 import java.util.*;
 import java.lang.Math;
 
